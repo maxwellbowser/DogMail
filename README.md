@@ -1,2 +1,2 @@
 # DogMail
-(potentially) Automated fun emails from chico (my dog)!
+Automated fun emails from Chico (my dog)!
